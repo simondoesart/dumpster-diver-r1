@@ -1,0 +1,7 @@
+Painted material atlas v3
+Method: built-in image_gen tool (original image generation).
+Project asset: painted-materials-v3.png
+The atlas is sampled by the game into four material regions at runtime.
+
+Prompt:
+Use case: stylized-concept. Asset type: one square 2x2 game material texture atlas, to be mapped onto simple 3D meshes in the indie game Dumpster Diver. Flat orthographic surface scan, no perspective, no objects, no lighting direction, no labels, no text, no border or gutter. Four exactly equal square quadrants. Top left: faded dusty coral plaster with occasional exposed terracotta bricks, expressive gouache drybrush marks, small paint chips, worn chalky handmade surface. Top right: bottle-green painted sheet metal with a few warm cream paint chips, muted rust patches, subtly scumbled broad brushwork. Bottom left: blue-gray warm stone paving of uneven small rectangular cobbles, muted ochre and lilac strokes, tight fine seams, painterly drybrush worn flecks. Bottom right: golden tan corrugated cardboard and worn wood, broad layered paint strokes, fiber flecks, soft patchy stains. Every quadrant fills its edges and has even detail density, usable as a repeating game texture. Sophisticated stop-motion picture-book palette, visibly hand-painted with confident opaque brushwork and tactile paper grain, readable from a distance; not photorealistic, not glossy, not a scene or a concept-art board. Square 2048 by 2048 composition. Palette stays muted enough for warm 3D lighting.

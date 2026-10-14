@@ -1,0 +1,499 @@
+[
+  {
+    "file": "car/box.glb",
+    "source": "https://kenney.nl/assets/car-kit",
+    "license": "CC0-1.0",
+    "sha256": "b773815c791d2708a2a70f1a9bb6d197d7211269ad96e273f9e364ea536c1b18",
+    "bytes": 14108
+  },
+  {
+    "file": "car/cone.glb",
+    "source": "https://kenney.nl/assets/car-kit",
+    "license": "CC0-1.0",
+    "sha256": "d6659fc365de47c5d056b14f3d3fb3e191d3a5b869c43171753621dcf14b76bd",
+    "bytes": 16696
+  },
+  {
+    "file": "car/debris-tire.glb",
+    "source": "https://kenney.nl/assets/car-kit",
+    "license": "CC0-1.0",
+    "sha256": "7c3f5968244e2c617c698820e943493b8480c7bef8535fbab04d4a501b3489e9",
+    "bytes": 26548
+  },
+  {
+    "file": "car/garbage-truck.glb",
+    "source": "https://kenney.nl/assets/car-kit",
+    "license": "CC0-1.0",
+    "sha256": "6f2943e0ba4c6d86eb69a9243224259d6e0f169f474228439cda0579d49d3509",
+    "bytes": 268224
+  },
+  {
+    "file": "car/van.glb",
+    "source": "https://kenney.nl/assets/car-kit",
+    "license": "CC0-1.0",
+    "sha256": "ed4ed56e8e5ed98db050af09ed2062b3b6bb7b93eab1e563cb6774b387b233a1",
+    "bytes": 175664
+  },
+  {
+    "file": "characters/diver.glb",
+    "source": "https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0",
+    "license": "CC0-1.0",
+    "sha256": "e825437cd4d2ee9c1960b517a74a69101e33eb409ae7fa8cedc7134a998fbb7d",
+    "bytes": 3616284
+  },
+  {
+    "file": "characters/fox.glb",
+    "source": "https://quaternius.com/packs/ultimateanimatedanimals.html",
+    "license": "CC0-1.0",
+    "sha256": "9917771e1414c46557b011cbaaee6de82a827605008227a364c3862f0be62ddc",
+    "bytes": 960228
+  },
+  {
+    "file": "characters/hound.glb",
+    "source": "https://quaternius.com/packs/ultimateanimatedanimals.html",
+    "license": "CC0-1.0",
+    "sha256": "a1e107ec4c2c62ce8cad86f750a7f6f9f2065c691dc6f88fce39667d3f4877eb",
+    "bytes": 927536
+  },
+  {
+    "file": "characters/porcelain-goose.glb",
+    "source": "https://plewr.itch.io/goose",
+    "license": "CC0-1.0",
+    "sha256": "7665259efb91c27f3bd252a18ee09f234acdcc65aed6087af15a6192b568b841",
+    "bytes": 131064
+  },
+  {
+    "file": "characters/shiba.glb",
+    "source": "https://quaternius.com/packs/ultimateanimatedanimals.html",
+    "license": "CC0-1.0",
+    "sha256": "9cbd4f1e12f85024126eab6a2c5706c099196df1a10db74e6c8b67bac3fff54a",
+    "bytes": 851196
+  },
+  {
+    "file": "city/building-a.glb",
+    "source": "https://kenney.nl/assets/city-kit-commercial",
+    "license": "CC0-1.0",
+    "sha256": "5cf220f90ee3f21e7abe38055ca409a48aa8ef1d5ffab6e2deb99e5a5e1ed5e0",
+    "bytes": 108936
+  },
+  {
+    "file": "city/building-c.glb",
+    "source": "https://kenney.nl/assets/city-kit-commercial",
+    "license": "CC0-1.0",
+    "sha256": "f6887608a95a165503561730252c30506938803731c6546efca12bd47b1666bd",
+    "bytes": 102788
+  },
+  {
+    "file": "city/building-f.glb",
+    "source": "https://kenney.nl/assets/city-kit-commercial",
+    "license": "CC0-1.0",
+    "sha256": "633a25f7fb3ccf98e304a885a36ed900aecee5bde7ecd554729dec753cceea78",
+    "bytes": 148952
+  },
+  {
+    "file": "city/building-h.glb",
+    "source": "https://kenney.nl/assets/city-kit-commercial",
+    "license": "CC0-1.0",
+    "sha256": "6881613ce218bb33a0f56137d4d33b00d307c47e518fbb21ccba1083efbea896",
+    "bytes": 127384
+  },
+  {
+    "file": "city/detail-awning-wide.glb",
+    "source": "https://kenney.nl/assets/city-kit-commercial",
+    "license": "CC0-1.0",
+    "sha256": "d37ba34be414cef84db966e548e2c558088aec3fdf68763565b9caf95c11ac5f",
+    "bytes": 5544
+  },
+  {
+    "file": "creative-trio/toolbox.glb",
+    "source": "https://poly.pizza/m/3ImQcIK0Gp",
+    "license": "CC0-1.0",
+    "sha256": "7f0daa0eab14257aa6b6dac2e959289c5ce5b8fff88750b5644f97b6f29831fd",
+    "bytes": 18656
+  },
+  {
+    "file": "creative-trio/umbrella.glb",
+    "source": "https://poly.pizza/m/o0CUgpt8pm",
+    "license": "CC0-1.0",
+    "sha256": "aaa107b00ba628499d01349b93e8bccc79909fd4fa2b17dad03ce5bc8f48e91c",
+    "bytes": 38988
+  },
+  {
+    "file": "food/apple.glb",
+    "source": "https://kenney.nl/assets/food-kit",
+    "license": "CC0-1.0",
+    "sha256": "2a80ab65d5bc2cb4f2bca1e8176cbb591849a288596d4b2e76e411338761a526",
+    "bytes": 14376
+  },
+  {
+    "file": "food/bag-flat.glb",
+    "source": "https://kenney.nl/assets/food-kit",
+    "license": "CC0-1.0",
+    "sha256": "97d736b7a0cb00b1b9da5d7e548182ef6e0cef27b979b07ee69d153d4ecf9cd9",
+    "bytes": 11280
+  },
+  {
+    "file": "food/bag.glb",
+    "source": "https://kenney.nl/assets/food-kit",
+    "license": "CC0-1.0",
+    "sha256": "17803bb1e467d5cfd5ca9479a206870e60d160548c884b07ea294f1265334a06",
+    "bytes": 6408
+  },
+  {
+    "file": "food/banana.glb",
+    "source": "https://kenney.nl/assets/food-kit",
+    "license": "CC0-1.0",
+    "sha256": "67c90aa8bef35b8886d6b67c0c4c3249556e28176c893d451b95cd83a156908c",
+    "bytes": 12348
+  },
+  {
+    "file": "food/chinese.glb",
+    "source": "https://kenney.nl/assets/food-kit",
+    "license": "CC0-1.0",
+    "sha256": "6aa08a486ba711b7565062b691d286d16b3916cc01574a4fcb8287d7369e0396",
+    "bytes": 19384
+  },
+  {
+    "file": "food/chopstick.glb",
+    "source": "https://kenney.nl/assets/food-kit",
+    "license": "CC0-1.0",
+    "sha256": "4cc0380c714daf7a7996d9c5591983a92609c9771ca544089e962ef338788a59",
+    "bytes": 3008
+  },
+  {
+    "file": "food/frying-pan.glb",
+    "source": "https://kenney.nl/assets/food-kit",
+    "license": "CC0-1.0",
+    "sha256": "66cd36e3361d47f068cd1fc06df422b550058adde2017f306ed93dad7c3d2b9f",
+    "bytes": 19216
+  },
+  {
+    "file": "food/soda-can-crushed.glb",
+    "source": "https://kenney.nl/assets/food-kit",
+    "license": "CC0-1.0",
+    "sha256": "6c052d69d4ec25083f05619bd48086d1666b0ddc9ddec5f6859fcd1f847be554",
+    "bytes": 21304
+  },
+  {
+    "file": "food/soda-can.glb",
+    "source": "https://kenney.nl/assets/food-kit",
+    "license": "CC0-1.0",
+    "sha256": "4ae68cbd532e69353ae1392e95bb57afa7cb2acc98f3bb46dc5a017c765c89fe",
+    "bytes": 16384
+  },
+  {
+    "file": "furniture/bench.glb",
+    "source": "https://kenney.nl/assets/furniture-kit",
+    "license": "CC0-1.0",
+    "sha256": "ba05a6d23a5a5a44da016757632070e47ff7587ce10e2f6d6d52328b4cf5489b",
+    "bytes": 10756
+  },
+  {
+    "file": "furniture/books.glb",
+    "source": "https://kenney.nl/assets/furniture-kit",
+    "license": "CC0-1.0",
+    "sha256": "b8dc56e5d29f6fc1f4727fccb1b9642627fee9942c48060a00034e98df02701c",
+    "bytes": 6864
+  },
+  {
+    "file": "furniture/cardboardBoxClosed.glb",
+    "source": "https://kenney.nl/assets/furniture-kit",
+    "license": "CC0-1.0",
+    "sha256": "4af079dca52960912764574950f0549ff2ae1224b3db1528718629473a2d5d81",
+    "bytes": 5400
+  },
+  {
+    "file": "furniture/cardboardBoxOpen.glb",
+    "source": "https://kenney.nl/assets/furniture-kit",
+    "license": "CC0-1.0",
+    "sha256": "960da412564774c75e7b32f9af0100895e1edb877fc1e70dd34ee2422a2196d4",
+    "bytes": 5404
+  },
+  {
+    "file": "furniture/kitchenCoffeeMachine.glb",
+    "source": "https://kenney.nl/assets/furniture-kit",
+    "license": "CC0-1.0",
+    "sha256": "063f582c6fa0f00a9f24e3393dac2295491c4becdaf5513c893ab1a2826b6ec3",
+    "bytes": 13332
+  },
+  {
+    "file": "furniture/lampRoundTable.glb",
+    "source": "https://kenney.nl/assets/furniture-kit",
+    "license": "CC0-1.0",
+    "sha256": "75bb644caaa3da003b4fcad7a931722dd61cd2858aab70cf660021d5061fa1b2",
+    "bytes": 6604
+  },
+  {
+    "file": "furniture/loungeChair.glb",
+    "source": "https://kenney.nl/assets/furniture-kit",
+    "license": "CC0-1.0",
+    "sha256": "ddfe6bc4b3451bca61666d7b614552d6ed2a03d82fc76244b72ae3155874dc6c",
+    "bytes": 9648
+  },
+  {
+    "file": "furniture/plantSmall1.glb",
+    "source": "https://kenney.nl/assets/furniture-kit",
+    "license": "CC0-1.0",
+    "sha256": "2b9c022feb47be857b2c4fdc29f36522766ba9b70c578c31d7c05d71b4377d15",
+    "bytes": 8224
+  },
+  {
+    "file": "furniture/pottedPlant.glb",
+    "source": "https://kenney.nl/assets/furniture-kit",
+    "license": "CC0-1.0",
+    "sha256": "5b760eda2766f75fda36b2c5df652a1662f82981ef64cd8fa7fe7bcd386b3a15",
+    "bytes": 7576
+  },
+  {
+    "file": "furniture/radio.glb",
+    "source": "https://kenney.nl/assets/furniture-kit",
+    "license": "CC0-1.0",
+    "sha256": "1ba93d6ba6f049750853b4652b92f286f2898e527695a0705b75cc7615897fed",
+    "bytes": 25020
+  },
+  {
+    "file": "furniture/televisionVintage.glb",
+    "source": "https://kenney.nl/assets/furniture-kit",
+    "license": "CC0-1.0",
+    "sha256": "eb144cc8fb1e7f761e3665226e4266c8868679421d21d6548f24d2abad7c67cf",
+    "bytes": 19392
+  },
+  {
+    "file": "furniture/toaster.glb",
+    "source": "https://kenney.nl/assets/furniture-kit",
+    "license": "CC0-1.0",
+    "sha256": "38c1fb7b122be9997758c8ee855d87f28014cf282f24d66d39f4e8d8b236d2af",
+    "bytes": 14924
+  },
+  {
+    "file": "furniture/trashcan.glb",
+    "source": "https://kenney.nl/assets/furniture-kit",
+    "license": "CC0-1.0",
+    "sha256": "e0ccc1fe50cbd05386477fdff527171d1cf7c0de2ba7ff3233f8d9561feb2561",
+    "bytes": 6452
+  },
+  {
+    "file": "google/cart.glb",
+    "source": "https://poly.pizza/m/4lhRcMbl1pw",
+    "license": "CC-BY-3.0",
+    "sha256": "c24f705d0e36010b761f912a829228e772dd74193d871182f90da1e0ddaa3cdd",
+    "bytes": 212860
+  },
+  {
+    "file": "industrial/building-d.glb",
+    "source": "https://kenney.nl/assets/city-kit-industrial",
+    "license": "CC0-1.0",
+    "sha256": "72b9e9e29986df0778ffa7c56e2f92fcfadfaa0f89bf167603877db4f38a789e",
+    "bytes": 100768
+  },
+  {
+    "file": "industrial/detail-tank.glb",
+    "source": "https://kenney.nl/assets/city-kit-industrial",
+    "license": "CC0-1.0",
+    "sha256": "9e955732e4ef9ccff4a4d6967d29d8a7d2f9ed16c903923f2568216d9f0b50d2",
+    "bytes": 31436
+  },
+  {
+    "file": "industrial/solar-panel-flat.glb",
+    "source": "https://kenney.nl/assets/city-kit-industrial",
+    "license": "CC0-1.0",
+    "sha256": "0b10fa196480181d22734e4971f068e2909fb5835fab1857d26748e39b3b6bb1",
+    "bytes": 13964
+  },
+  {
+    "file": "jarlan-perez/broom.glb",
+    "source": "https://poly.pizza/m/eirJlDWOBm8",
+    "license": "CC-BY-3.0",
+    "sha256": "032886646b5f7e6484a5120b052a61abfd07b8a5405af1d6160b662fe2319ba8",
+    "bytes": 30452
+  },
+  {
+    "file": "nature/flower_redA.glb",
+    "source": "https://kenney.nl/assets/nature-kit",
+    "license": "CC0-1.0",
+    "sha256": "171930b7789ddbf735af3745576b5393750beb9133b9ff4a444bb6bb2986c020",
+    "bytes": 7104
+  },
+  {
+    "file": "nature/plant_bushDetailed.glb",
+    "source": "https://kenney.nl/assets/nature-kit",
+    "license": "CC0-1.0",
+    "sha256": "2e0487020d68ccf664435db9d829c78ae00e6d2785ee3ec10b9f89cc70a10406",
+    "bytes": 10172
+  },
+  {
+    "file": "nature/rock_smallA.glb",
+    "source": "https://kenney.nl/assets/nature-kit",
+    "license": "CC0-1.0",
+    "sha256": "df9fff9d711e61370e8df0caa2514c89b8f8a8dc6c6fafaf4eb2ec79c5ae07c1",
+    "bytes": 3044
+  },
+  {
+    "file": "nature/tree_detailed.glb",
+    "source": "https://kenney.nl/assets/nature-kit",
+    "license": "CC0-1.0",
+    "sha256": "c041daf2f0fb1d49e4325227cbcd58667adbe51e9b55e8c1f0a94b74cc521b3b",
+    "bytes": 31412
+  },
+  {
+    "file": "nature/tree_oak.glb",
+    "source": "https://kenney.nl/assets/nature-kit",
+    "license": "CC0-1.0",
+    "sha256": "d7fd8773674928c50c11b66d12c636d49bdcc15a8b1c7fbb98e6f63a3439a3f3",
+    "bytes": 14644
+  },
+  {
+    "file": "quaternius/dumpster.glb",
+    "source": "https://poly.pizza/m/PKsbolkZSr",
+    "license": "CC0-1.0",
+    "sha256": "9f90024ae4e95cea5eee448fa11e7e8dbfdcddc61aeebe95cd67faadf316f88f",
+    "bytes": 19140
+  },
+  {
+    "file": "survival/bedroll-packed.glb",
+    "source": "https://kenney.nl/assets/survival-kit",
+    "license": "CC0-1.0",
+    "sha256": "980c222917e8564c68aa184af025d701612c7395e8ad8ef55b5b00785637a98f",
+    "bytes": 13680
+  },
+  {
+    "file": "survival/bottle.glb",
+    "source": "https://kenney.nl/assets/survival-kit",
+    "license": "CC0-1.0",
+    "sha256": "23f847b8812838830df686fb8b472fa225693a3b85c526f2796f7b0790831a9a",
+    "bytes": 10468
+  },
+  {
+    "file": "survival/box-open.glb",
+    "source": "https://kenney.nl/assets/survival-kit",
+    "license": "CC0-1.0",
+    "sha256": "2169e2291052ef9c378af4d6736df3fcff4ebca8fc39cbcdb4b7ad6accdff568",
+    "bytes": 17052
+  },
+  {
+    "file": "survival/chest.glb",
+    "source": "https://kenney.nl/assets/survival-kit",
+    "license": "CC0-1.0",
+    "sha256": "84b03023e425cc1f96c6d0b0f352608be9e8e01b112790e6b00b8651bf84379b",
+    "bytes": 35172
+  },
+  {
+    "file": "survival/tool-hammer.glb",
+    "source": "https://kenney.nl/assets/survival-kit",
+    "license": "CC0-1.0",
+    "sha256": "9b27f03c26dabd49a7ea358615e63fe65e1c3d0157887d4ee1ecdfa1f0e688f3",
+    "bytes": 6520
+  },
+  {
+    "file": "survival/tool-shovel.glb",
+    "source": "https://kenney.nl/assets/survival-kit",
+    "license": "CC0-1.0",
+    "sha256": "20abb2420f0215c59694287207b7a6324114552b9f59846ab2a2673e3a7c1147",
+    "bytes": 11656
+  },
+  {
+    "file": "survival/workbench.glb",
+    "source": "https://kenney.nl/assets/survival-kit",
+    "license": "CC0-1.0",
+    "sha256": "bf72d2d535fa29127e5078a6c4c2023a74fa5cd7d02d91ad550e897e088e1dc8",
+    "bytes": 26104
+  },
+  {
+    "file": "v6/backpack.glb",
+    "source": "Original model created for Dumpster Diver",
+    "license": "Original project asset; no third-party model source",
+    "sha256": "c315d80a415d126a413b25e1e32ad9aa2368ca44d65dcc9f1ebd6dcc3728f1a7",
+    "bytes": 89320
+  },
+  {
+    "file": "v6/basket.glb",
+    "source": "Original model created for Dumpster Diver",
+    "license": "Original project asset; no third-party model source",
+    "sha256": "97e228a0dbecae0a5ab0ee41dfc55cb38d890885d2da4070f08700c05dd76854",
+    "bytes": 2866676
+  },
+  {
+    "file": "v6/baton.glb",
+    "source": "Original model created for Dumpster Diver",
+    "license": "Original project asset; no third-party model source",
+    "sha256": "0d68448447aab4826e1ecabdf58e4d2b223ddea271af48c887bd4a920acbe3d7",
+    "bytes": 8932
+  },
+  {
+    "file": "v6/batteries.glb",
+    "source": "Original model created for Dumpster Diver",
+    "license": "Original project asset; no third-party model source",
+    "sha256": "254541e0e3a1ecfa3a4c5e65f8f685ef2bcf3e4700d4269b27b58cd04c108e36",
+    "bytes": 9080
+  },
+  {
+    "file": "v6/battery-sock.glb",
+    "source": "Original model created for Dumpster Diver",
+    "license": "Original project asset; no third-party model source",
+    "sha256": "b78cb0d04550a1dbb93373bc3720122c4271697e2a4f55f874505a819e7c0340",
+    "bytes": 29184
+  },
+  {
+    "file": "v6/broken-bottle.glb",
+    "source": "Original model created for Dumpster Diver",
+    "license": "Original project asset; no third-party model source",
+    "sha256": "84e9c3fe7840daced7af8e9c0fc3e6dcac14d258afd9e06234fa47579e906b0d",
+    "bytes": 17572
+  },
+  {
+    "file": "v6/diver.glb",
+    "source": "https://quaternius.com/packs/ultimatemodularcharacters.html",
+    "license": "CC0-1.0 (source model)",
+    "sha256": "1e49650a3da9bf831815792ed1a62d15d649fe04c0f23369e1a6d7e433e22dc7",
+    "bytes": 1803900
+  },
+  {
+    "file": "v6/mabel.glb",
+    "source": "https://quaternius.com/packs/ultimatemodularwomen.html",
+    "license": "CC0-1.0 (source model)",
+    "sha256": "232e546464018d200a29fed6ea4f3c03414a7993df9c2ca6c6e965226b8e49f7",
+    "bytes": 1823900
+  },
+  {
+    "file": "v6/manager.glb",
+    "source": "https://quaternius.com/packs/ultimatemodularcharacters.html",
+    "license": "CC0-1.0 (source model)",
+    "sha256": "d601ab1a0a32385591df44394a01513082e0fa969076c4fce6a975f12ba3e4c6",
+    "bytes": 1828960
+  },
+  {
+    "file": "v6/police.glb",
+    "source": "https://quaternius.com/packs/ultimatemodularcharacters.html",
+    "license": "CC0-1.0 (source model)",
+    "sha256": "26aceb6ce9102e224fe7fcf406c9df0b602d643ba10c33d387c30f3852e71bb2",
+    "bytes": 1823296
+  },
+  {
+    "file": "v6/sack.glb",
+    "source": "Original model created for Dumpster Diver",
+    "license": "Original project asset; no third-party model source",
+    "sha256": "9e8d753494aa5afdfed04c759f75fa3360db7104b4aa30f84841aac78ff62449",
+    "bytes": 210044
+  },
+  {
+    "file": "v6/scavenger.glb",
+    "source": "https://quaternius.com/packs/ultimatemodularcharacters.html",
+    "license": "CC0-1.0 (source model)",
+    "sha256": "5dcf7c9accfb67b4b66b2a4e575b60bd03b57d7854a4aaa0bc844f9bee0be282",
+    "bytes": 1727320
+  },
+  {
+    "file": "v6/skunk.glb",
+    "source": "https://poly.pizza/m/bf8IDe1qb7u",
+    "license": "CC-BY-3.0",
+    "sha256": "357c7f2dab685ea8d2d2dda5811031f50ebe86663ce4b31b32718b185c0e77fe",
+    "bytes": 928700
+  },
+  {
+    "file": "v6/sock.glb",
+    "source": "Original model created for Dumpster Diver",
+    "license": "Original project asset; no third-party model source",
+    "sha256": "e5e2e13eb5025651f92776fdb77b833295b4e990c28c2ed74c9624817d9cf451",
+    "bytes": 9652
+  }
+]

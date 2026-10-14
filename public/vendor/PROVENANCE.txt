@@ -1,0 +1,6 @@
+Three.js 0.180.0
+Official npm distribution: https://registry.npmjs.org/three/-/three-0.180.0.tgz
+Archive SHA-256: ad66d724565ee29a2467277fa84daa5ed0211d6b8d446e9ef29f6bae0cd14144
+No runtime CDN requests.
+
+GLTFLoader.js, SkeletonUtils.js and BufferGeometryUtils.js extracted from the same official 0.180.0 archive. ES module bindings adapted to this static build’s shared THREE namespace. Original MIT notices retained.

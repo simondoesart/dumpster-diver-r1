@@ -1,0 +1,6 @@
+Shopping cart
+Author: Poly by Google
+License: CC BY 3.0
+https://creativecommons.org/licenses/by/3.0/
+Source: https://poly.pizza/m/4lhRcMbl1pw
+Changes: Scaled, grounded, recolored to muted copper and sage, and adapted into the trailing loot trolley. This attribution and license link must travel with redistributed builds.

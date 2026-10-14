@@ -1,0 +1,6 @@
+Skunk by Google (Poly by Google)
+Source: https://poly.pizza/m/bf8IDe1qb7u
+License: Creative Commons Attribution 3.0 Unported
+https://creativecommons.org/licenses/by/3.0/
+Changes: added six-bone skeleton, vertex weights and eight animation clips in Blender; grounded and scaled for gameplay; applied a shared brush material at runtime.
+No endorsement by the original maker is implied. Keep attribution with redistribution.

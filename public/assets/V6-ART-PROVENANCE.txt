@@ -1,0 +1,23 @@
+DUMPSTER DIVER / PLAYTEST 06 / 13 OCTOBER 2026
+
+BRUSH MATERIAL
+File: brush-gouache.png
+Created with the built-in image generation tool. New opaque image; no reference images.
+Original output: 01a13365-eb16-7d50-84eb-052cd9006494/exec-e32d35b3-c832-48c4-9025-cf58e2134085.png
+Prompt:
+Use case: stylized-concept. Asset type: seamless neutral brushstroke material texture for a 3D indie game. Generate a single square, completely flat, evenly lit, tileable texture of dry gouache and worn watercolor on thick paper. Broad overlapping irregular bristle strokes in warm ivory, pale clay grey, and slightly darker desaturated umber. Strong visible brush direction in many overlapping orientations, small stippled paper fibres, rubbed edges and subtle pigment pooling. Medium-low contrast, suitable for multiplying over colored 3D models, with most luminance between 60 and 90 percent. No objects, no scene, no text, no symbols, no perspective, no drop shadows, no vignettes, no borders, no dramatic black lines. Must look hand-painted rather than photographic noise. Fill the entire square edge-to-edge. Opaque background.
+Treatment: unchanged image pixels, projected on three local-space axes and multiplied over the existing colors. Character strokes follow the bind-pose surface through animation. Retains the previous painted paving atlas and illustrated loot cards.
+
+MODELS
+Quaternius CC0 modular male/female rigs supply five characters and 24 authored clips each. Their pack licenses are included. Source data mirror commit db3df04d1e4714298a09510b26fb6de6645138a2:
+https://github.com/agentkaerf/FreeModels/tree/db3df04d1e4714298a09510b26fb6de6645138a2
+Primary author pages and licensing: model-credits.html.
+Original character additions: skinned cloth aprons, police cap, badge, radio and belt; palette edits. No replacement humanoid meshes made from primitive shapes.
+Original modeled props: backpack with seams and straps, cloth sack, woven basket, broken bottle, loose batteries, sock, battery sock, baton. Built as meshes in Blender and exported to self-contained glTF binaries.
+Skunk: authored Google mesh under CC BY 3.0. Added a six-bone rig and eight simple keyframed clips; attribution and changes recorded in models/v6/SKUNK-ATTRIBUTION.txt.
+Building facades/interiors: original code-native geometry, with sourced Kenney produce and furniture on display. Hinged manager doors use the same encounter state as the simulation. Window rooms are shallow display sets, not enterable full interiors.
+
+PAPER EXPERIMENT
+art-lab.html renders the same character/prop front view into a texture and layers 14 alpha-cut planes with colored edges. This is a static art-direction prototype with rotation, not a fully animated paper-character system. Flat silhouettes become thin from the side. Directional cutouts or a hybrid 3D rig would be needed before adopting it for the whole game.
+
+Runtime mesh cleanup: generate missing vertex normals before applying the paint shader. The broom also receives a warm wood/straw palette.

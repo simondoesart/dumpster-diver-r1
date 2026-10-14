@@ -1,0 +1,126 @@
+DUMPSTER DIVER / ONE MORE BIN / PLAYTEST 06
+
+PLAY
+http://127.0.0.1:8772/
+Desktop browser with WebGL 2. Sound starts when you enter the game.
+If the local preview stops, serve this folder with:
+  npm start
+Keep the entire folder together. Assets and sound work offline once served.
+This is a solo alpha. Hosting it lets people play separate local runs.
+
+THE NIGHT'S JOB
+Rummage around Brimble Lane, carry home strange treasures, and reach the van
+before the three-minute collection deadline. Aim for 12 points, or extract
+early with any nonempty haul. Only your personal best persists between runs.
+
+CONTROLS
+WASD / arrows: move relative to the screen.
+Click ground to walk; click a container, loose item or van to walk and interact.
+E: search, pick up or load the van. Press once; no need to hold.
+Space: tap or hold to swing. Third swing is a finishing attack.
+Shift: dodge, then hold to hurry. F: hop. Q: drop the selected find.
+C: assemble the night-night sock when carrying a sock and batteries.
+M: overview. Click the small map to navigate. Mouse wheel / +/-: zoom.
+Tab / I: inspect your kit. Escape or Back to the block closes it.
+Drag the character in your kit to rotate it.
+Escape: cancel searching/crafting, close a found-item reveal, or otherwise pause.
+The Sound button mutes or restores the entire soundscape.
+
+WHAT CHANGED
+Five modern, authored human character rigs with skeletal animation, including
+Wired Eddie, Officer Grudge and two shop managers. Shared gouache material,
+custom aprons and police accessories. Dogs have become animated skunks.
+Layered building facades, deep window frames, visible display-room contents,
+shop signs and hinged doors. Standing close to windows builds suspicion;
+back away to cool it down, or the manager comes outside. These are shallow
+window interiors; you cannot walk into the shops in this alpha.
+Original detailed canvas rucksack, cloth sack, woven basket and new weapons.
+Loot flies into the pack and visibly stacks/wobbles as you move.
+A large, live rummage view with blurred street, container-specific packing,
+passing unrelated shapes, and an actual find revealed only after completion.
+A seeded raid with 24 predetermined finds across eight containers.
+A separate art-lab.html compares painted 3D and a static stacked-paper look.
+
+THE LOCALS
+Patch the fox and Wired Eddie can steal finds. Eddie also grabs loose items.
+Skunks telegraph a spray, leaving a short-lived cloud that slows you and
+interrupts rummaging. Dodge away or counter before the spray.
+Officer Grudge investigates noisy rummaging and weapon swings.
+Mabel and Clive become suspicious when you linger near their windows or doors.
+Every threat has health and can be permanently knocked out for this raid.
+A fresh raid restores everyone. Counters and third hits add damage; knocked
+back enemies may need to be approached again before you can finish a combo.
+Stolen finds drop when a thief is hit or defeated. Follow a thief to its stash
+or retrieve loose items with E. Dropped food/radios can distract animals.
+The fighting is cartoon slapstick with non-graphic knockouts.
+
+GEAR AND CRAFTING
+Rucksack: 6 spaces. Basket: 8. Sack: 10. Trolley: 12. Upgrades do not use space.
+Heavy finds use two spaces and slow you a little. No carrier downgrade.
+Start with a broom. Find a pan (2 damage), umbrella (reach), or broken bottle
+(fast, short range, 2 damage). Gear auto-equips for the current raid.
+Find a sock and loose batteries in containers; press C to make the heavy sock
+(2 damage, sweeping reach). Assembly takes 2.2 live seconds. Moving, dodging,
+being interrupted or cancelling keeps the ingredients. Completion consumes
+one of each ingredient and equips the weapon, freeing both carry spaces.
+
+LOOT AND FAIRNESS
+A fresh run creates its seed and fixes the complete container contents.
+The total item pool is identical across seeds; placement and order vary.
+Every container starts with ordinary scoring loot. Mabel's second layer has
+a basket. Sock, batteries and bottle are spread across the three early street
+containers. No top-tier find starts in Mabel's bin; at most one per container.
+The reel is decorative and does not determine rewards. Cancelling cannot reroll.
+This reduces empty-route and jackpot-cluster luck; it does not prove equal
+travel effort or threat exposure. Those need playtest balancing. Client-side
+seeds are suitable for this solo alpha, not tamper-proof multiplayer fairness.
+For a repeatable test run, append &seed=7 to the play URL (base-36 seed).
+
+LIVE SEARCH, PAUSED INSPECTION
+Enemies, clock and music continue during rummaging and crafting. Background
+blur intentionally limits vision. Move, dodge or attack to abandon a search.
+Names, points and rarity are withheld until the find is secured. Better finds
+get richer musical flourishes. Searching does not protect you from theft.
+Tab opens a paused solo inspection screen with your actual inventory, equipment,
+space grid and rotatable character. Opening it cancels an unfinished action.
+The same screen shows your findings after extraction or failure.
+
+SOUND
+Original synthesized jazz: electric piano, plucked bass, brushed percussion,
+footstep hi-hats, ambience, container sounds and rarity-dependent loot phrases.
+Threat proximity strengthens the footstep percussion; the final stretch adds
+tempo and percussion. New reel ticks, manager warning, spray and crafting cues.
+This remains a procedural alpha score with room for further listening/mix work.
+
+ART SOURCES
+Quaternius CC0 modular men/women provide the five human rigs and 24 clips each.
+Quaternius also supplies the fox and dumpster; Kenney supplies many street and
+household props. CreativeTrio supplies the toolbox/umbrella; Plewr the goose.
+Google's skunk and shopping cart, and Jarlan Perez's broom, require CC BY 3.0
+attribution. See model-credits.html and source/license files beside the models.
+Keep these credits in redistributed builds. 71 glTF files are bundled, including
+legacy models retained from v5. Full source links and hashes: assets/models/manifest.json.
+Original props and facades were modeled for this project; brush textures and
+loot illustrations were generated for the project. Prompts and modifications:
+assets/ART-PROVENANCE.txt, LOOT-ART-PROVENANCE.txt and V6-ART-PROVENANCE.txt.
+Three.js 0.180.0 and its official helper addons are bundled under MIT.
+
+PAPER TEST
+http://127.0.0.1:8772/art-lab.html
+Select a character/prop, switch between Painted 3D and Stacked paper, and turn it.
+Paper mode bakes a front-view pose onto 14 layered cutouts. It is deliberately
+a separate static visual test. Full animation and side views would need more
+artwork or a hybrid mesh approach; it is not the game's current renderer.
+
+VALIDATION AND SCOPE
+Automated checks: node --test tests/*.cjs
+They cover the physical loop, inventory, gear, combat, defeats, extraction,
+manager emergence, skunk spray, police noise response, live interruptions,
+crafting completion/cancellation and 1,000 seeded loot distributions.
+Browser checks include the new rigs, painterly scene, window display contents,
+manager emergence, counters/hit reactions, rummaging and interruptions, carried
+loot, gear discoveries, inspection and the separate paper viewer.
+Observed street rendering reached around 60 fps at 1280x720 on this machine;
+other hardware is unverified. See VALIDATION-v6.txt for the final checked scope.
+No economy, wallet, account, stash, backend or networked players in this alpha.
+See README.md for deployment instructions and the current scope.

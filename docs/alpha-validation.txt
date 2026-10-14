@@ -1,0 +1,44 @@
+DUMPSTER DIVER / PLAYTEST 06 / VALIDATION / 13 OCTOBER 2026
+
+PASS: 33 automated checks (node --test tests/*.cjs).
+Includes 1,000 distinct raid seeds with constant item budgets, ordinary route
+floors, capped top-tier clustering, guaranteed crafting resources and no rerolls.
+Every enemy category has a permanent-defeat test. Managers also have window
+suspicion, decay, door emergence and defeat checks. Police investigate noise;
+skunks warn, spray, slow and can be interrupted. Crafting consumes materials
+exactly once on completion, preserves them on cancellation and cannot duplicate
+an equipped weapon. Rummaging keeps the clock/enemies live and contact cancels it.
+
+The full-raid simulation starts at the normal spawn with every enemy active.
+It uses movement/pathfinding, search and attack actions, without teleporting,
+injected loot, extended time or changed damage. Seed 7 collects cans, sock,
+lamp and batteries; defeats Officer Grudge and Patch; crafts the heavy sock;
+and extracts 5 points. This is simulation coverage, not a claim that the whole
+sequence was manually completed through the browser.
+
+PASS: 71 bundled glTF binaries have valid headers, mesh references and local
+buffer/image dependencies. Every model/script/stylesheet reference checked in
+the game entry page resolves. All game JavaScript parses. Model hashes and
+source/license records are included in assets/models/manifest.json.
+
+BROWSER OBSERVATIONS
+Actual new animated characters, skunks, custom bags, scenery and item art load.
+Shop display objects are visible through windows. Mabel responds to proximity,
+opens her door and comes outside. Broom hits and counters reduce her health.
+Loot search, auto-equipped basket/pan, carried finds, live interruptions,
+knocked-loose-item recovery and paused kit inspection work in the inspected runs.
+A browser run extracted a lamp with basket and pan equipped (4 haul points).
+The large rummage panel blurs the world while the timer and enemies continue.
+The separate viewer switches subjects and compares painted 3D to paper layers.
+No browser console errors/warnings were reported in inspected v6 game sessions
+or the final paper viewer. Missing mesh normals were repaired at import; the
+previously dark broom was visually verified with correct wood/straw lighting.
+Street rendering sampled around 60 fps at 1280x720 on this machine.
+
+LIMITS
+Browser playtests did not complete the new crafting-to-extraction sequence;
+that is covered by the full-raid simulation above. Audio scheduling is checked;
+the procedural mix has not had a dedicated listening pass in this iteration.
+Other hardware, full mobile controls and multiplayer are unverified. The paper
+look is a static front-cutout experiment, not a finished animated renderer.
+This is a playable alpha, with further visual, animation and balance work ahead.

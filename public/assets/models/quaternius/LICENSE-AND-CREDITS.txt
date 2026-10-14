@@ -1,0 +1,6 @@
+Trash Container
+Author: Quaternius
+License: CC0
+https://creativecommons.org/publicdomain/zero/1.0/
+Source: https://poly.pizza/m/PKsbolkZSr
+Changes: Authored dumpster. Lid separated in Blender and given a hinge for the search animation; normalized to container sizes.

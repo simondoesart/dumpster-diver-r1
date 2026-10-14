@@ -1,0 +1,6 @@
+Broom
+Author: Jarlan Perez
+License: CC BY 3.0
+https://creativecommons.org/licenses/by/3.0/
+Source: https://poly.pizza/m/eirJlDWOBm8
+Changes: Scaled, grounded and attached to the animated hand. This attribution and license link must travel with redistributed builds.

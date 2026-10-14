@@ -1,0 +1,13 @@
+.DS_Store
+._*
+node_modules/
+.vercel/
+.env
+.env.*
+!.env.example
+*.log
+coverage/
+screenshots/
+dist/
+.cache/
+

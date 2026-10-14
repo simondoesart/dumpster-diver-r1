@@ -1,0 +1,13 @@
+Closed Umbrella
+Author: CreativeTrio
+License: CC0
+https://creativecommons.org/publicdomain/zero/1.0/
+Source: https://poly.pizza/m/o0CUgpt8pm
+Changes: Scaled and attached to the character hand. A custom opening-canopy effect is added for the finishing swing.
+
+Toolbox
+Author: CreativeTrio
+License: CC0
+https://creativecommons.org/publicdomain/zero/1.0/
+Source: https://poly.pizza/m/3ImQcIK0Gp
+Changes: Scaled for found loot and the carried stack.

@@ -1,0 +1,22 @@
+SHAREABLE REPOSITORY / 13 OCTOBER 2026
+
+Source: Dumpster Diver playable browser alpha, Playtest 06 / v6.3.
+Game simulation and model bytes copied unchanged. Added repository metadata,
+Vercel configuration, preview launcher, release checks and documentation.
+Added page description/share metadata and a relative art-lab return link.
+
+PASS: 33 existing gameplay/audio tests, including the full simulated raid and
+1,000 loot seeds. Test imports updated for the public/ folder structure.
+PASS: release check: 122 public files, 14 JavaScript files, 71 GLB models and
+121 local references. Required model/engine attribution files are retained.
+PASS: common credential patterns absent from text files and GLB metadata.
+PASS: preview HTTP entry pages, scripts and a GLB return correct content types;
+missing paths and root-only development files are not served.
+PASS: actual packaged game starts in the browser, renders the street and
+characters, opens/closes kit inspection and toggles sound. No browser warnings
+or errors observed. Screenshot retained outside the repository.
+
+Local checks used Node 26.4.0. Deployment is configured for Node 22.x and uses
+only built-in APIs available in Node 22. A Vercel deployment has not yet run.
+GitHub authentication is required to publish the repository. See README.md.
+Original gameplay scope and limitations remain in alpha-validation.txt.

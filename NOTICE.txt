@@ -1,0 +1,21 @@
+DUMPSTER DIVER — ONE MORE BIN
+
+This repository has not been assigned an open-source license for the original
+game code and project artwork. Sharing a playable build does not itself grant
+reuse rights to those original materials.
+
+Third-party materials retain their own licenses. These are not overridden by
+the package.json UNLICENSED field:
+
+- Three.js 0.180.0 and adapted official addons: MIT.
+  public/vendor/THREE-LICENSE.txt and PROVENANCE.txt.
+- Quaternius, Kenney, KayKit, CreativeTrio, Plewr assets: CC0, as recorded
+  in the corresponding public/assets/models folders.
+- Google's skunk and cart; Jarlan Perez's broom: CC BY 3.0.
+  Attribution, source URLs, and modifications are documented in
+  public/model-credits.html and beside the respective models.
+
+Preserve the attribution page, source notices, and included licenses when
+redistributing the game. Generated project art and modifications are described
+in public/assets/*PROVENANCE.txt. No model-generation software or weights are
+distributed in this game repository.

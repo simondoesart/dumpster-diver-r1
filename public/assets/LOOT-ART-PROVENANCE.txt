@@ -1,0 +1,25 @@
+LOOT ATLAS v4
+Created 2026-10-13 using the built-in image generation tool.
+Original generated art. Not an ARC Raiders asset or third-party model render.
+Initial sheet: loot-atlas-v4.png. Final sheet: loot-atlas-v4-refined.png.
+Runtime samples twelve measured sprite rectangles, preserving aspect ratios.
+Both sheets are 1448 by 1086 with genuine transparency.
+Prompt:
+Use case: stylized-concept.
+Asset type: a single production-ready game inventory sprite atlas, transparent background, exactly 4 columns by 3 rows, landscape 4:3 aspect ratio, twelve equal square cells.
+Primary request: twelve charming discarded objects for the indie game Dumpster Diver, painterly miniature collectible product renders. Every cell contains one isolated object centered with generous transparent margins. No frames, no grid lines, no text, no letters, no logos, no scenery, no watermark. Objects must never cross cell boundaries. A consistent three-quarter camera from slightly above, soft studio key light and warm rim light, carefully worn materials, tactile hand-painted finish, readable bold silhouettes. More detailed than toy primitives, gently whimsical but grounded.
+Exact grid order:
+Top row left to right: 1 a tied translucent grocery bag containing several dented aluminum drink cans, 2 a battered cream folded takeaway carton with its lid ajar and noodles inside, 3 a chunky weathered blue metal toolbox with brass latch and black handle, 4 a small crooked vintage table lamp with a pleated mustard shade and bent brass stem.
+Middle row left to right: 5 a charming olive green portable transistor radio with cream tuning dial, dark speaker grille and small antenna, 6 a glossy ivory porcelain goose figurine with orange bill and tiny painted eyes, 7 an empty warm wicker market basket with arched handle and green gingham lining, 8 a large sage green patched cloth sack with a gathered mouth and shoulder rope.
+Bottom row left to right: 9 a small empty wonky wire shopping trolley with a rust orange handle and four wheels, 10 a black worn cast-iron frying pan shown diagonally with handle, 11 a closed rusty orange umbrella with curved wood handle shown diagonally, 12 a scruffy straw broom with blue binding and a long wooden handle shown diagonally.
+Constraints: genuine transparent alpha background; all twelve sprites individually centered in exact equal 4 by 3 grid, entire object visible within its square cell and separated from neighbors by empty transparent gutters. No cast shadow outside each cell. Same rendering treatment throughout.
+
+REFINEMENT PROMPT (built-in image generation, original sheet as edit target)
+Edit target: the attached transparent inventory sprite atlas. Keep all twelve objects, their identity, painterly detailed product-render style, exact order, colors, materials and three-quarter viewing angles. Change only the layout: give every item a generous EMPTY transparent gutter. The canvas is an EXACT 4-column by 3-row grid of equal square cells. Reduce each object so its entire silhouette fits inside the central 74% of its own cell, leaving at least 13% of that cell empty on all four sides. Center each object in its cell. Especially move the umbrella and broom DOWN into their own bottom-row cells, away from the basket and sack. Top row: cans, takeaway, blue toolbox, lamp. Middle row: radio, porcelain goose, wicker basket, cloth sack. Bottom row: shopping trolley, pan, closed umbrella, broom. Entire broom handle and all trolley wheels remain visible. No object or detached fragment may overlap another cell. No background, no grid lines, no frames, no text, no extra objects. Preserve genuine transparent alpha.
+
+MODEL SOURCING
+Kenney Furniture Kit: https://kenney.nl/assets/furniture-kit
+Official page inspected 2026-10-13: 140 files, Creative Commons CC0.
+Useful future furniture/prop source. No models from this pack are bundled in v4.
+All v4 character and world meshes are original procedural Three.js geometry.
+UI reference supplied by user informs layout hierarchy only. No artwork extracted.
